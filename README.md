@@ -3,9 +3,17 @@
 - 🌱 I’m learning Dotnet technology and C#
 - 📫 Reach me at 01154710314 or aboudnaser20@gmail.com
 
-# Most Popular Topics in Laravel :
-1. Authentication & Authorization
-- User authentication scaffolding (login, register, reset password).
-- API authentication using Sanctum and Passport.
-- Role-based access control (RBAC) with Laravel Spatie.
-- Social authentication with Laravel Socialite.
+
+- **Most Popular Topics in Laravel:**
+  - MVC Pattern 
+  - Authentication & Authorization
+  - Eloquent ORM
+  - Routing
+  - Blade Templating Engine
+  - API Development
+  - Middleware
+  - Testing
+  - File Storage & Uploads
+  - Localization and Translation
+  - Livewire
+
