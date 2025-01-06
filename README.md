@@ -4,7 +4,7 @@
 - 📫 Reach me at 01154710314 or aboudnaser20@gmail.com
 
 # Most Popular Topics in Laravel :
-## 1. Authentication & Authorization
+1. Authentication & Authorization
 - User authentication scaffolding (login, register, reset password).
 - API authentication using Sanctum and Passport.
 - Role-based access control (RBAC) with Laravel Spatie.
