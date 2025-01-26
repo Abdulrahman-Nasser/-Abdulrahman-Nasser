@@ -10,10 +10,14 @@
   - Eloquent ORM
   - Routing
   - Blade Templating Engine
-  - API Development
+  - Restfull APIs
   - Middleware
   - Testing
   - File Storage & Uploads
   - Localization and Translation
   - Livewire
+  - Mysql
+  - Query Builder
+
+- Easily working with Git & GitHub 🌱
 
