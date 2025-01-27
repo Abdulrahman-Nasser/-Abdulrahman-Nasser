@@ -1,4 +1,5 @@
 # Hello, I'm Abdulrahman-Nasser 👋
+  <img height="150" src="https://media.tenor.com/qMH5o_XizbcAAAAM/but-here%27s-the-coder.gif"  />
 
 - 🔭 I currently work as a backend developer using laravel at El-Moasser Company , the e-learning department
 - 🌱 I’m learning Dotnet technology and C#
@@ -6,9 +7,7 @@
   
 <hr>
 <br>
-<div align="center">
-  <img height="150" src="https://media.tenor.com/qMH5o_XizbcAAAAM/but-here%27s-the-coder.gif"  />
-</div>
+
 
 <p align="center" style="padding:20px 0;">
    Software Technologies , Tools and Frameworks
