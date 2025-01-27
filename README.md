@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/qMH5o_XizbcAAAAM/but-here%27s-the-coder.gif"  />
+  <img height="150" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif"  />
 </div>
 
 <p align="center" style="padding:20px 0;">
